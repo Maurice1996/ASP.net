@@ -1,0 +1,66 @@
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\roslyn\csc.exe
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\roslyn\vbc.exe
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Tweakers WEB.dll.config
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Tweakers WEB.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Tweakers WEB.pdb
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Antlr3.Runtime.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\EntityFramework.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.Owin.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.Owin.Security.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Newtonsoft.Json.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Owin.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\System.Web.Optimization.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\System.Web.Providers.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\WebGrease.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\System.Web.Optimization.xml
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Antlr3.Runtime.pdb
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Newtonsoft.Json.xml
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\EntityFramework.xml
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\System.Web.Providers.xml
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.Owin.xml
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.Owin.Security.xml
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\obj\Debug\Tweakers WEB.csprojResolveAssemblyReference.cache
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\obj\Debug\Tweakers WEB.dll
+C:\Users\Maurice\Documents\GitHub\ASP.net\Tweakers WEB\Tweakers WEB\obj\Debug\Tweakers WEB.pdb
