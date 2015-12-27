@@ -47,21 +47,25 @@
                         <span class="icon-bar"></span>
                     </button>
                     <div class="imagelogo"> 
-                    <img src="tweakerslogo.png">
+                    <img src="/tweakerslogo.png">
                         </div>
                     <a class="navbar-brand" runat="server" href="~/">Tweakers</a>
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li><a runat="server" href="~/">yolo</a></li>
-                        <li><a runat="server" href="~/About">About</a></li>
-                        <li><a runat="server" href="~/Contact">Contact</a></li>
+                        <li><a runat="server" href="~/">Nieuws</a></li>
+                        <li><a runat="server" href="~/About">Reviews</a></li>
+                        <li><a runat="server" href="~/Contact">Pricewatch</a></li>
+                        <li><a runat="server" href="~/Contact">Vraag & Aanbod</a></li>
+                        <li><a runat="server" href="~/Contact">Vergelijken</a></li>
+
                     </ul>
                     <asp:LoginView runat="server" ViewStateMode="Disabled">
                         <AnonymousTemplate>
                             <ul class="nav navbar-nav navbar-right">
-                                <li><a runat="server" href="~/Account/Register">Register</a></li>
-                                <li><a runat="server" href="~/Account/Login">Log in</a></li>
+                                <li><a runat="server" href="~/Account/Login">Inloggen</a></li>
+                                <li><a runat="server" href="~/Account/Register">Registeren</a></li>
+                                
                             </ul>
                         </AnonymousTemplate>
                         <LoggedInTemplate>
@@ -76,14 +80,16 @@
                 </div>
             </div>
         </div>
-        <div class="container body-content">
+        <div class="body-container">
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>
             <hr />
+            </div>
+            <div class="bottomfooter">
             <footer>
                 <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
             </footer>
-        </div>
+                </div>
     </form>
 </body>
 </html>
