@@ -1755,8 +1755,20 @@ textarea.form-control {
   height: auto;
 }
 
+Form{height:100%;}
+
 .form-group {
   margin-bottom: 15px;
+}
+
+.buttonregister{
+    background-color: #0A91C7;
+    color: white;
+    border-radius: 0;
+   Text-align:center;
+   vertical-align: central;
+   
+  
 }
 
 .radio,
@@ -4523,13 +4535,16 @@ textarea.input-group-sm > .input-group-btn > .btn {
         margin-left:auto;
         margin-right:auto;
         background-color: white;
+        Margin: 0 auto -150px;
 }
 .bottomfooter{
+    position: fixed;
+    bottom: 0;
     text-align: center;
     background-color: #313232;
      color: white;
-     padding-top: 50px;
-     padding-bottom: 200px;
+  height: 150px;
+  width: 100%;
 }
 
 

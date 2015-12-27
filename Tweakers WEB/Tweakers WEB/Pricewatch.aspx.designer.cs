@@ -10,6 +10,6 @@
 namespace Tweakers_WEB {
     
     
-    public partial class Review {
+    public partial class Pricewatch {
     }
 }

@@ -180,6 +180,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Account\Web.config" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Pricewatch.aspx" />
     <Content Include="Review.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -213,7 +214,9 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Site.Master" />
+    <Content Include="Vergelijken.aspx" />
     <Content Include="ViewSwitcher.ascx" />
+    <Content Include="VraagEnaanbod.aspx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
     <Content Include="packages.config" />
@@ -355,6 +358,13 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Pricewatch.aspx.cs">
+      <DependentUpon>Pricewatch.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pricewatch.aspx.designer.cs">
+      <DependentUpon>Pricewatch.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Review.aspx.cs">
       <DependentUpon>Review.aspx</DependentUpon>
@@ -378,12 +388,26 @@
       <DependentUpon>Site.Mobile.Master</DependentUpon>
     </Compile>
     <Compile Include="Startup.cs" />
+    <Compile Include="Vergelijken.aspx.cs">
+      <DependentUpon>Vergelijken.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vergelijken.aspx.designer.cs">
+      <DependentUpon>Vergelijken.aspx</DependentUpon>
+    </Compile>
     <Compile Include="ViewSwitcher.ascx.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="ViewSwitcher.ascx.designer.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="VraagEnaanbod.aspx.cs">
+      <DependentUpon>VraagEnaanbod.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VraagEnaanbod.aspx.designer.cs">
+      <DependentUpon>VraagEnaanbod.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
