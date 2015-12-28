@@ -1760,6 +1760,22 @@ Form{height:100%;}
 .form-group {
   margin-bottom: 15px;
 }
+.zoekinsite{
+    padding-top: 100px;
+    
+}
+
+.zoekbalkkleur{
+   background-color: #313232;
+   height: 60px;
+   color:#9BA8AF;
+}
+
+.tekstjeinzoekbalk{
+    padding-top: 35px;
+    padding-left: 500px;
+    font-size: 13px;
+}
 
 .buttonregister{
     background-color: #0A91C7;
@@ -1769,6 +1785,28 @@ Form{height:100%;}
    vertical-align: central;
    
   
+}
+.submit{
+  display: inline-block;
+  width: 40px;
+  height: 35px;
+  position: relative;
+  margin: auto;
+  background-image:url("/searchicon.png");
+  background-repeat: no-repeat;
+  background-color: #FFFFFF;
+  
+  border-style: none;
+   border-radius: 1px;
+}
+
+.searchbar{
+   background-color: #EDEEEE;
+  margin: auto;
+}
+
+.hr{
+    color: black;
 }
 
 .radio,

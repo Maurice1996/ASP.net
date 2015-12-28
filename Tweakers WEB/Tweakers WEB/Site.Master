@@ -6,7 +6,7 @@
 <head runat="server">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title><%: Page.Title %> - Tweakers - Wij stellen technologie op de proef</title>
+    <title>Tweakers - Wij stellen technologie op de proef</title>
 
     <asp:PlaceHolder runat="server">
         <%: Scripts.Render("~/bundles/modernizr") %>
@@ -39,6 +39,8 @@
         </asp:ScriptManager>
 
         <div class="navbar navbar-inverse navbar-fixed-top">
+            
+            
             <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -77,9 +79,24 @@
                             </ul>
                         </LoggedInTemplate>
                     </asp:LoginView>
+                    </div>
                 </div>
             </div>
+        <div class="zoekbalkkleur">
+            <p class="tekstjeinzoekbalk">Wij stellen technologie op de proef</p>
+               </div>
+        <div class="searchbar">
+               <div class="search">
+                   <form id="mainsearch" class="keywordsearch">
+                      <div class="keyword">
+                          <input class="text" type="text" placeholder="Zoek in de site" name="keyword" autocomplete="off" />
+                      </div>
+                       <input class="submit" type="submit" value="" />
+                   </form>
+               </div>
+             <hr />
         </div>
+       
         <div class="body-container">
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>
@@ -87,7 +104,7 @@
             </div>
             <div class="bottomfooter">
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
+                
             </footer>
                 </div>
     </form>

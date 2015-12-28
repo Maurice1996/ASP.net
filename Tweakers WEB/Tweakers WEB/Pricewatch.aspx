@@ -2,4 +2,27 @@
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
 
+    <div class="categoryclicker" style="position: relative;">
+        <div class="categorielijst" style="overflow:hidden;">
+            <ul>
+                <li>
+                    voorbeeld
+                </li>
+                <li>
+                    voorbeeld
+                </li>
+                <li>
+                    voorbeeld
+                </li>
+                <li>
+                    voorbeeld
+                </li>
+                <li>
+                    voorbeeld
+                </li>
+            </ul>
+         
+        </div>
+    </div>
+
 </asp:Content>
