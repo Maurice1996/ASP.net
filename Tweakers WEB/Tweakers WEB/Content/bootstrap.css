@@ -1798,11 +1798,25 @@ Form{height:100%;}
   
   border-style: none;
    border-radius: 1px;
+   
 }
-
+.submitbutton{
+    position: relative;
+    padding-left: 200px;
+    padding-bottom: 20px;
+}
 .searchbar{
+    padding-top: 10px;
    background-color: #EDEEEE;
-  margin: auto;
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+
+}
+.text{
+     border-style: none;
+     position: relative;
+   border-radius: 2px;
 }
 
 .hr{
