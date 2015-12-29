@@ -5,3 +5,46 @@
                 <uc:OpenAuthProviders runat="server" ID="OpenAuthLogin" />
             </section>
         </div>
+
+
+2----
+<%@ Page Title="Tweakers - Wij stellen technologie op de proef" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Tweakers_WEB._Default" %>
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+    </head>
+<body>
+    <div id="categoryBrowser">
+        <div id="categorielijst">
+            <ul>
+                <li>
+                    voorbeeld
+                </li>
+                <li>
+                    voorbeeld
+                </li>
+                <li>
+                    voorbeeld
+                </li>
+                <li>
+                    voorbeeld
+                </li>
+                <li>
+                    voorbeeld
+                </li>
+            </ul>
+         
+        </div>
+
+        <div id="categorieplaatjes">
+
+        </div>
+    </div>
+
+</asp:Content>
+    </body>
+</html>

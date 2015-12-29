@@ -4,6 +4,7 @@
 
 <html lang="en">
 <head runat="server">
+     <asp:ContentPlaceHolder ID="head" runat="server">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Tweakers - Wij stellen technologie op de proef</title>
@@ -13,7 +14,7 @@
     </asp:PlaceHolder>
     <webopt:bundlereference runat="server" path="~/Content/css" />
     <link href="/tweakerslogo.png" rel="shortcut icon" type="image/png" />
-
+    </asp:ContentPlaceHolder>
 </head>
 <body>
     <form runat="server">

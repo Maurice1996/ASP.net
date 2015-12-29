@@ -16,7 +16,7 @@
         <asp:ValidationSummary runat="server" CssClass="text-danger" />
 
          <div class="form-group">
-            <asp:Label runat="server" AssociatedControlID="Password" CssClass="col-md-2 control-label">Gebruikersnaam</asp:Label>
+            <asp:Label runat="server" AssociatedControlID="Password" CssClass="col-md-2 control-label">Gebruikersnaam *</asp:Label>
             <div class="col-md-10">
                 <%--<asp:TextBox runat="server" ID="Gebruikersnaam" TextMode="Gebruikersnaam" CssClass="form-control" />--%>
                 <%--<asp:RequiredFieldValidator runat="server" ControlToValidate="Gebruikersnaam"--%>
@@ -25,7 +25,7 @@
         </div>
 
         <div class="form-group">
-            <asp:Label runat="server" AssociatedControlID="Email" CssClass="col-md-2 control-label">E-mailadres</asp:Label>
+            <asp:Label runat="server" AssociatedControlID="Email" CssClass="col-md-2 control-label">E-mailadres *</asp:Label>
             <div class="col-md-10">
                 <asp:TextBox runat="server" ID="Email" CssClass="form-control" TextMode="Email" />
                 <asp:RequiredFieldValidator runat="server" ControlToValidate="Email"
@@ -33,7 +33,7 @@
             </div>
         </div>
         <div class="form-group">
-            <asp:Label runat="server" AssociatedControlID="Password" CssClass="col-md-2 control-label">Wachtwoord</asp:Label>
+            <asp:Label runat="server" AssociatedControlID="Password" CssClass="col-md-2 control-label">Wachtwoord *</asp:Label>
             <div class="col-md-10">
                 <asp:TextBox runat="server" ID="Password" TextMode="Password" CssClass="form-control" />
                 <asp:RequiredFieldValidator runat="server" ControlToValidate="Password"
@@ -43,7 +43,7 @@
         </div>
         <div class="form-group">
             <div class="col-md-offset-2 col-md-10">
-                <asp:Button runat="server" OnClick="CreateUser_Click" Text="Registeren" Class="buttonregister"/>
+                <asp:Button runat="server" OnClick="CreateUser_Click" Text="Registeren" Class="buttonkleur"/>
             </div>
         </div>
 </asp:Content>
