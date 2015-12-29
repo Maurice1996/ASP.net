@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-    <div class="categoryclicker" style="position: relative;">
+    <div class="categoryBrowser" style="position: relative;">
         <div class="categorielijst" style="overflow:hidden;">
             <ul>
                 <li>
